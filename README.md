@@ -7,8 +7,8 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 
 - 🔭 I’m currently working on: **Medical Imaging**
 - 🌱 I’m currently learning: **Deep Learning**, **Generative AI**, **Data Engineering**
-- 👯 I’m looking to collaborate on: **Open-source AI/ML projects**, **Hackathons**
-- 💬 Ask me about: **Data Science**, **AI/ML**, **Python**, **TensorFlow**
+- 🤝 I’m looking to collaborate on: **Open-source AI/ML projects**, **Hackathons**
+- 🤖 Ask me about: **Data Science**, **AI/ML**, **Python**, **TensorFlow**
 - 📫 How to reach me: **nasifsafwan@gmail.com**
 - ⚡ Fun fact: **I’m also a huge fan of Football ⚽️ and enjoy playing!**
 
