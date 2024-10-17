@@ -1,16 +1,16 @@
-# Hey there! 👋 I'm [Your Name]  
+# Hey there! 👋 I'm Nasif Safwan  
 
 ![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20profile%20✨-green?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen&style=for-the-badge)
 
 ## 🚀 About Me:
-I’m a **Machine Learning Enthusiast** and a **Full-Stack Developer** with a passion for solving real-world problems through data, technology, and innovation! I love exploring cutting-edge AI technologies and contributing to open-source projects. 
+I’m a **Machine Learning Enthusiast** with a passion for solving real-world problems through data, technology, and innovation! I love exploring cutting-edge AI technologies and contributing to open-source projects. 
 
-- 🔭 I’m currently working on: **[Your Projects]**
+- 🔭 I’m currently working on: **Medical Imaging**
 - 🌱 I’m currently learning: **Deep Learning**, **Generative AI**, **Data Engineering**
 - 👯 I’m looking to collaborate on: **Open-source AI/ML projects**, **Hackathons**
 - 💬 Ask me about: **Data Science**, **AI/ML**, **Python**, **TensorFlow**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **I’m also a huge fan of chess ♟️ and enjoy hiking!**
+- 📫 How to reach me: **nasifsafwan@gmail.com**
+- ⚡ Fun fact: **I’m also a huge fan of Football ⚽️ and enjoy playing!**
 
 <br>
 
@@ -71,7 +71,7 @@ I’m a **Machine Learning Enthusiast** and a **Full-Stack Developer** with a pa
     <a href="https://twitter.com/YourUsername">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
-    <a href="mailto:YourEmail">
+    <a href="mailto:nasifsafwan@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
 </p>
@@ -79,5 +79,5 @@ I’m a **Machine Learning Enthusiast** and a **Full-Stack Developer** with a pa
 ---
 
 <p align="center">
-    <img src="https://github.com/YourUsername/YourUsername/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+    <img src="https://github.com/nasifsafwan/nasifsafwan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
