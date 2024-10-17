@@ -41,7 +41,7 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
     <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
   </picture>
 
-  <picture align="left">
+  <picture align="left"> 
     <source srcset="https://streak-stats.demolab.com/?user=nasifsafwan&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
     <img src="https://streak-stats.demolab.com/?user=nasifsafwan&hide_border=true&theme=dark&background=00000000" width="47%" />
   </picture>
