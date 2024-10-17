@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Nasif Safwan  
 
-![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20profile%20✨-green?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen&style=for-the-badge)
+![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20profile%20✨-green?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=nasifsafwan&color=brightgreen&style=for-the-badge)
 
 ## 🚀 About Me:
 I’m a **Machine Learning Enthusiast** with a passion for solving real-world problems through data, technology, and innovation! I love exploring cutting-edge AI technologies and contributing to open-source projects. 
@@ -18,11 +18,15 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
     <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    <img src="https://img.shields.io/badge/BERT-007396?style=for-the-badge&logo=bert&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" />
+    <img src="https://img.shields.io/badge/Seaborn-232F3E?style=for-the-badge&logo=seaborn&logoColor=white" />
 </p>
 
 <br>
@@ -79,5 +83,5 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 ---
 
 <p align="center">
-    <img src="https://github.com/nasifsafwan/nasifsafwan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+    <img src="https://raw.githubusercontent.com/nasifsafwan/nasifsafwan/main/github-user-contribution.svg" alt="Contributions Animation"/>
 </p>
