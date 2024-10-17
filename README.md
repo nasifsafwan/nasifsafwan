@@ -53,8 +53,8 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
   </picture>
 -->
 <p align="center">
-    <img src="[https://github-readme-streak-stats.herokuapp.com/?user=nasifsafwan&theme=tokyonight" alt="GitHub Streak](https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nasifsafwan&theme=highcontrast" alt="GitHub Streak)" />
-    <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasifsafwan&theme=highcontrast" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
 </p>
 
 </div>
