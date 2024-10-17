@@ -29,15 +29,15 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 
 ## 🏆 GitHub Stats:
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
-    <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasifsafwan&theme=tokyonight" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
 </p>
 
 <br>
 
 ## 🌍 Languages I Use:
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifsafwan&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </p>
 
 <br>
@@ -65,10 +65,10 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 
 ## 📫 Connect with Me:
 <p align="center">
-    <a href="https://linkedin.com/in/YourUsername">
+    <a href="https://linkedin.com/in/nasifsafwan">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/YourUsername">
+    <a href="https://twitter.com/nasifsafwan">
         <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     <a href="mailto:nasifsafwan@gmail.com">
