@@ -34,20 +34,24 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 
 ## 🏆 GitHub Stats:
 <!-- Profile summary -->
-<h2>Profile summary </h2>
+<h2>Profile summary</h2>
 <div align="center">
- <picture align = "left">
+ <picture align="left">
     <source srcset="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
     <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&hide_border=true&theme=github_dark" width="49%" />
   </picture>
-<picture align = "left">
+
+  <picture align="left">
     <source srcset="https://streak-stats.demolab.com/?user=nasifsafwan&hide_border=true" media="(prefers-color-scheme: light)" width="47%" />
     <img src="https://streak-stats.demolab.com/?user=nasifsafwan&hide_border=true&theme=dark&background=00000000" width="47%" />
-</picture>
-  <picture align = "right">
-    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width = "98%">
-    <img src="images/profile-custom-night-view.svg" width = "98%"/>
   </picture>
+
+  <picture align="right">
+    <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width="98%">
+    <img src="images/profile-custom-night-view.svg" width="98%" />
+  </picture>
+
+
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasifsafwan&theme=tokyonight" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
