@@ -46,7 +46,7 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 <details>
   <summary>✨ Recent Projects:</summary>
   <ul>
-    <li><b>Project 1</b>: Description of the project. [GitHub Repo](#)</li>
+    <li><b>Project 1</b>: T3SSLNet: Tri-Method Self-Supervised Learning Based Pre-trained Network for MRI Brain Tumor Classification [[GitHub Repo](https://github.com/nasifsafwan/T3SSLNet)](#)</li>
     <li><b>Project 2</b>: Description of the project. [GitHub Repo](#)</li>
     <li><b>Project 3</b>: Description of the project. [GitHub Repo](#)</li>
   </ul>
