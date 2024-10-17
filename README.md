@@ -33,6 +33,7 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 <br>
 
 ## 🏆 GitHub Stats:
+<!--
 <!-- Profile summary -->
 <h2>Profile summary</h2>
 <div align="center">
@@ -49,8 +50,7 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
   <picture align="right">
     <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width="98%">
     <img src="images/profile-custom-night-view.svg" width="98%" />
-  </picture>
-
+  </picture> -->
 
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasifsafwan&theme=tokyonight" alt="GitHub Streak" />
