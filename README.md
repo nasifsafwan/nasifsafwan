@@ -33,9 +33,9 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
 <br>
 
 ## 🏆 GitHub Stats:
-<!--
+<!-- v -->
 <!-- Profile summary -->
-<h2>Profile summary</h2>
+<!--<h2>Profile summary</h2>
 <div align="center">
  <picture align="left">
     <source srcset="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&hide_border=true" media="(prefers-color-scheme: light)" width="49%" />
@@ -50,8 +50,8 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
   <picture align="right">
     <source media="(prefers-color-scheme: light)" srcset="images/profile-custom-season.svg" width="98%">
     <img src="images/profile-custom-night-view.svg" width="98%" />
-  </picture> -->
-
+  </picture>
+-->
 <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=nasifsafwan&theme=tokyonight" alt="GitHub Streak" />
     <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
