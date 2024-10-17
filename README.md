@@ -27,7 +27,7 @@ I’m a **Machine Learning Enthusiast** with a passion for solving real-world pr
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
     <img src="https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=matplotlib&logoColor=white" />
     <img src="https://img.shields.io/badge/Seaborn-232F3E?style=for-the-badge&logo=seaborn&logoColor=white" />
-    <img src="https://img.shields.io/badge/Seaborn-232F3E?style=for-the-badge&logo=C++&logoColor=blue" />
+    <img src="https://img.shields.io/badge/C++-232F3E?style=for-the-badge&logo=C++&logoColor=blue" />
 </p>
 
 <br>
