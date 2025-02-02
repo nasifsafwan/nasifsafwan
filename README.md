@@ -1,6 +1,6 @@
 # Hey there! 👋 I'm Nasif Safwan  
 
-![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20profile%20✨-green?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=nasifsafwan&color=brightgreen&style=for-the-badge)
+![Welcome](https://img.shields.io/badge/Welcome%20to%20my%20profile%20✨-green?style=for-the-badge) ![Profile Views](https://komarev.com/ghpvc/?username=YourUsername&color=brightgreen&style=for-the-badge)
 
 ## 🚀 About Me:
 I’m a **Machine Learning Researcher** passionate about AI, deep learning, and solving real-world problems with data-driven solutions! I actively contribute to open-source projects and explore cutting-edge AI techniques.
