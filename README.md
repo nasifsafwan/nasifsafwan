@@ -74,9 +74,3 @@ I’m a **Machine Learning Researcher** passionate about AI, deep learning, and 
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
     </a>
 </p>
-
----
-
-<p align="center">
-    <img src="https://raw.githubusercontent.com/nasifsafwan/nasifsafwan/main/github-user-contribution.svg" alt="Contributions Animation"/>
-</p>
