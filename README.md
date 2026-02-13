@@ -55,3 +55,67 @@ Contact:
   LinkedIn............ linkedin.com/in/nasifsafwan
   GitHub.............. github.com/nasifsafwan
 ```
+
+```txt
+------------------------------------------------------------
+
+System.Information
+------------------------------
+
+OS:                 Research / Machine Learning
+Host:               Arché Intelligence Lab
+Kernel:             Medical AI · Self-Supervised Learning
+Uptime:             Building reproducible ML systems
+IDE:                VSCode · Kaggle · Linux
+
+Languages.Programming:
+  Python            ██████████████████████
+  C++               ████████████
+  JavaScript        ███████
+
+Frameworks:
+  PyTorch           ████████████████████
+  TensorFlow        ███████████████
+  Scikit-learn      █████████████
+
+Markup / Tools:
+  LaTeX             ████████████
+  YAML / JSON       ██████████
+  Docker            ███████████
+
+------------------------------------------------------------
+
+Research.Areas
+------------------------------
+
+• Brain MRI Tumor Classification
+• Representation Learning
+• Domain Generalization
+• Toxic & Extremist Content Detection
+• Responsible AI Deployment
+
+------------------------------------------------------------
+
+Projects
+------------------------------
+
+T3SSLNet:
+  github.com/nasifsafwan/T3SSLNet
+
+ExtremoInsight:
+  github.com/nasifsafwan/ExtremoInsight
+
+Data Enthusiasm:
+  github.com/nasifsafwan/Data-Enthusiasm
+
+------------------------------------------------------------
+
+Contact
+------------------------------
+
+Email:              nasifsafwan@gmail.com
+LinkedIn:           linkedin.com/in/nasifsafwan
+GitHub:             github.com/nasifsafwan
+
+------------------------------------------------------------
+```
