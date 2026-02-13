@@ -10,9 +10,9 @@
                 . .;xx+  :+++:. :               ------------------------------
                      .    .::   ..              OS:        Research / ML
                                 :               Host:      Arché Intelligence Lab
-                .  .. +$XX+ ..                  Kernel:    Medical AI · SSL
+                .  .. +$XX+ ..                  Role:      Co-Founder & Supervisor
                  . ;x;::;;;xX+.:                IDE:       VSCode · Kaggle · MacOS
-                 .;;. .+x+: :++                 
+                 .;;. .+x+: :++                 Kernel:    Medical AI · SSL
                   ;XX+;;++++Xx                   Languages:
                    .X$$$$$$$x                     Python        ██████████████████████
                  .   .:+x+;.  ::                   C++           ████████████
