@@ -37,7 +37,7 @@ OS:                 Research / Machine Learning
 Host:               Arché Intelligence Lab
 Kernel:             Medical AI · Self-Supervised Learning
 Uptime:             Building reproducible ML systems
-IDE:                VSCode · Kaggle · Linux
+IDE:                VSCode · Kaggle · MacOS
 
 Languages.Programming:
   Python            ██████████████████████
