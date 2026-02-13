@@ -1,94 +1,114 @@
 <div align="center">
-NASIF SAFWAN
 
-Machine Learning Researcher
+<img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:0f172a,100:111827&text=Nasif%20Safwan&fontColor=ffffff&fontSize=42&fontAlignY=42&desc=Machine%20Learning%20Researcher%20·%20Medical%20AI%20·%20Self-Supervised%20Learning&descAlignY=74&descSize=14" />
 
-Medical Imaging · Self-Supervised Learning · Responsible AI
+<br>
+
+<a href="mailto:nasifsafwan@gmail.com">Email</a> ·
+<a href="https://linkedin.com/in/nasifsafwan">LinkedIn</a> ·
+<a href="https://github.com/nasifsafwan">GitHub</a>
+
+<br><br>
 
 </div>
-About
 
-I build machine learning systems for high-impact domains where precision, robustness, and interpretability matter.
+---
 
-My research focuses on representation learning under limited supervision, domain generalization in medical imaging, and ethical AI deployment. I am particularly interested in designing models that perform reliably beyond controlled training environments.
+## What I do
 
-Research Interests
+I build ML systems where reliability matters.  
+My focus is **medical imaging**, **self-supervised learning**, and **responsible AI** — designing models that generalize beyond curated training distributions.
 
-Self-supervised learning for medical imaging
+---
 
-Brain tumor classification from MRI
+## Now building
 
-Representation learning and feature robustness
+- Self-supervised learning pipelines for MRI classification  
+- Domain robustness and generalization in medical AI  
+- Toxic and extremist content detection  
 
-Domain adaptation and generalization
+---
 
-Toxic and extremist content detection
+## Featured projects
 
-Responsible and trustworthy AI systems
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Selected Projects
-T3SSLNet
+### T3SSLNet  
+Tri-method self-supervised learning for MRI brain tumor classification.
 
-Tri-Method Self-Supervised Learning for Enhanced Brain Tumor Classification in MRI
-A structured SSL framework designed to improve representation quality under limited labeled data.
+- Structured SSL strategies for stronger representations  
+- Designed for limited labeled data regimes  
 
-Repository:
-https://github.com/nasifsafwan/T3SSLNet
+<a href="https://github.com/nasifsafwan/T3SSLNet">View repository →</a>
 
-ExtremoInsight
+</td>
+<td width="50%" valign="top">
 
-AI Framework for Extremist Content Detection
-A deep learning system for identifying harmful and extremist digital content using robust NLP techniques.
+### ExtremoInsight  
+AI framework for extremist content detection.
 
-Repository:
-https://github.com/nasifsafwan/ExtremoInsight
+- Robust NLP-based detection pipeline  
+- Focus on practical safety use-cases  
 
-Data Enthusiasm
+<a href="https://github.com/nasifsafwan/ExtremoInsight">View repository →</a>
 
-Machine learning experiments, structured EDA pipelines, and model benchmarking workflows.
+</td>
+</tr>
 
-Repository:
-https://github.com/nasifsafwan/Data-Enthusiasm
+<tr>
+<td width="50%" valign="top">
 
-Technical Stack
+### Data Enthusiasm  
+ML experiments, EDA workflows, and benchmarking.
 
-Languages
-Python · C++
+<a href="https://github.com/nasifsafwan/Data-Enthusiasm">View repository →</a>
 
-Machine Learning
-PyTorch · TensorFlow · Scikit-learn
-Representation Learning · Model Optimization · Evaluation Pipelines
+</td>
+<td width="50%" valign="top">
 
-Systems & Tools
-Docker · Linux · PostgreSQL
-Reproducible Training Pipelines · Experiment Tracking
+### Open to collaboration  
+Research + Hackathons + experimental ideas.
 
-Approach
+If you have a serious problem worth building for, let’s talk.
 
-I prioritize:
+<a href="mailto:nasifsafwan@gmail.com">Reach out →</a>
 
-Strong experimental design
+</td>
+</tr>
+</table>
 
-Clear and reproducible pipelines
+---
 
-Balanced performance across classes
+## Stack
 
-Generalization over benchmark overfitting
+<div align="center">
 
-Ethical deployment considerations
+**Python · PyTorch · TensorFlow · Scikit-learn**  
+Docker · Linux · PostgreSQL · C++
 
-My work aims to bridge research rigor with real-world reliability.
+</div>
 
-Current Focus
+---
 
-Improving generalization in MRI tumor classification
+## GitHub activity
 
-Designing structured self-supervised learning pipelines
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af&icon_color=60a5fa" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=nasifsafwan&hide_border=true&background=00000000&ring=60a5fa&fire=60a5fa&currStreakLabel=9ca3af&sideLabels=9ca3af&dates=6b7280" width="49%" />
+</div>
 
-Robust toxic content detection in multilingual settings
+<br>
 
-Contact
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifsafwan&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=9ca3af" width="42%" />
+</div>
 
-Email: nasifsafwan@gmail.com
+---
 
-LinkedIn: https://linkedin.com/in/nasifsafwan
+<div align="center">
+
+**Build clean. Ship fast. Measure honestly.**
+
+</div>
