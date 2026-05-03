@@ -59,26 +59,6 @@ Profile summary
 
 ---
 
-## 🌍 Languages I Use:
-
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasifsafwan&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>
-
----
-
-## 🎨 Recent Projects:
-<details>
-  <summary>✨ Click to expand</summary>
-  <ul>
-    <li><b>T3SSLNet</b>: Tri-Method Self-Supervised Learning for MRI Brain Tumor Classification → [GitHub Repo](https://github.com/nasifsafwan/T3SSLNet)</li>
-    <li><b>Data Science & EDA</b>: Various ML/EDA projects → [GitHub Repo](https://github.com/nasifsafwan/Data-Enthusiasm)</li>
-    <li><b>ExtremoInsight</b>: Detecting extremist content using AI → [GitHub Repo](https://github.com/nasifsafwan/ExtremoInsight)</li>
-  </ul>
-</details>
-
----
-
 ## 📫 Connect with Me:
 
 <p align="center">
