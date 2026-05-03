@@ -47,13 +47,7 @@ Profile summary
 <source media="(prefers-color-scheme: light)" srcset="images/Mediamodifier-Design.svg" width="98%">
 <img src="images/Mediamodifier-Design.svg" width="98%" />
 </picture>
- 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nasifsafwan&theme=highcontrast" alt="GitHub Streak" />
-<img src="https://github-readme-stats.vercel.app/api?username=nasifsafwan&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
-</p>
-</div>
-<br>
+
 
 ---
 
