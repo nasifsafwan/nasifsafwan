@@ -23,7 +23,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install fonttools brotli
+      - run: pip install -r scripts/requirements.txt
       - name: Build SVGs
         run: python scripts/build.py
         env:
