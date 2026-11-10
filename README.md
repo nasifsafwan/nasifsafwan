@@ -1,7 +1,7 @@
 <a href="https://nasifsafwan.me">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img alt="Nasif Safwan: AI researcher, builder, professional overthinker" src="assets/banner-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg?v=2">
+    <img alt="Nasif Safwan: AI researcher, builder, professional overthinker" src="assets/banner-light.svg?v=2" width="100%">
   </picture>
 </a>
 
@@ -76,7 +76,7 @@ I co-founded **[Arché Intelligence Lab](https://www.archelab.org)** and direct 
 
 <a href="https://nasifsafwan.me">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg">
-    <img alt="Dhaka, Bangladesh. Sleep is under review." src="assets/footer-light.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/footer-dark.svg?v=2">
+    <img alt="Dhaka, Bangladesh. Sleep is under review." src="assets/footer-light.svg?v=2" width="100%">
   </picture>
 </a>
