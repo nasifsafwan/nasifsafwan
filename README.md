@@ -50,15 +50,22 @@ I co-founded **[Arché Intelligence Lab](https://www.archelab.org)** and direct 
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/bar-projects-dark.svg"><img alt="Projects" src="assets/bar-projects-light.svg" width="100%"></picture>
 
-| Project | What it does | Status |
-|:--|:--|:-:|
-| **[LedgerScan](https://led-scan.com)** | Scan a product, know if it's fake. On-chain product IDs plus an AI risk engine, verdicts in ~0.3 s. | `LIVE` |
-| **[Zentra](https://zentra-bd.vercel.app)** | Custom sportswear store for teams across Bangladesh. Next.js, Supabase. | `LIVE` |
-| **[House Ledger](https://github.com/nasifsafwan/House-Ledger)** | Mess and hostel expense tracking: meals, rent, shared bills, settlements. · [app](https://house-ledger-gamma.vercel.app/) | `LIVE` |
-| **[Argus](https://github.com/nasifsafwan/Argus-Home)** | Website gap scoring: Playwright crawl plus Gemini keyword analysis. | `CODE` |
-| **[Office Ledger](https://github.com/nasifsafwan/Office-Ledger)** | Office operations SaaS: attendance, leave, tasks, meetings, notices. | `CODE` |
-| **[LinguaLab](https://github.com/nasifsafwan/LinguaLab)** | Hands-on NLP playground: edit distance, n-grams, sentence probability. | `CODE` |
-| **[PromptPix](https://github.com/nasifsafwan/PromptPix)** | A chatbot that talks and paints with Stable Diffusion. | `CODE` |
+<p align="center">
+<a href="https://led-scan.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-ledgerscan-dark.svg"><img alt="LedgerScan" src="assets/app-ledgerscan-light.svg" width="49%"></picture></a>
+<a href="https://www.ledgercross.com/team/nasif-safwan"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-kyc-dark.svg"><img alt="KYC Platform" src="assets/app-kyc-light.svg" width="49%"></picture></a>
+<a href="https://zentra-bd.vercel.app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-zentra-dark.svg"><img alt="Zentra" src="assets/app-zentra-light.svg" width="49%"></picture></a>
+<a href="https://house-ledger-gamma.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-houseledger-dark.svg"><img alt="House Ledger" src="assets/app-houseledger-light.svg" width="49%"></picture></a>
+<a href="https://github.com/nasifsafwan/Argus-Home"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-argus-dark.svg"><img alt="Argus" src="assets/app-argus-light.svg" width="49%"></picture></a>
+<a href="https://doi.org/10.1109/ACCESS.2025.3589619"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/app-t3sslnet-dark.svg"><img alt="T3SSLNet" src="assets/app-t3sslnet-light.svg" width="49%"></picture></a>
+</p>
+
+<sub>Also on the shelf: <a href="https://github.com/nasifsafwan/Office-Ledger">Office Ledger</a> · <a href="https://github.com/nasifsafwan/LinguaLab">LinguaLab</a> · <a href="https://github.com/nasifsafwan/PromptPix">PromptPix</a> · <a href="https://nasifsafwan.me/#projects">all 13 on nasifsafwan.me</a></sub>
+
+<br>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/bar-activity-dark.svg"><img alt="Activity" src="assets/bar-activity-light.svg" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/monitor-dark.svg"><img alt="GitHub contributions over the last 12 months, week by week" src="assets/monitor-light.svg" width="100%"></picture>
 
 <br>
 
